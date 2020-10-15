@@ -1,6 +1,6 @@
 # [Lyric Search](https://etorres-revature.github.io/Lyric_Search/)
 
-[Lyric Search]() utilizes the [lyricsovh API](https://lyricsovh.docs.apiary.io/#) to search by artist, song lyric, or other search terms.  Then Lyric Search pulls back a list of aritsts/songs that contain the search terms.  From there, Lyric Search dynamically adds "next" and/or "previous" buttons depending on whether or not there is another page of results.  Finally, there is a button that allows users to get the lyrics to a chosen song. 
+[Lyric Search]() utilizes the [lyricsovh API](https://lyricsovh.docs.apiary.io/#) to search by artist, song lyric, or other search terms.  Then Lyric Search pulls back a list of artists/songs that contain the search terms.  From there, Lyric Search dynamically adds "next" and/or "previous" buttons depending on whether or not there is another page of results.  Finally, there is a button that allows users to get the lyrics to a chosen song. 
 
 Lyric Search home page:
 
@@ -24,7 +24,7 @@ Please enjoy the [Lyric Search](https://etorres-revature.github.io/Lyric_Search/
 
 #### :memo: HTML5 :memo:
 
-**HTML5** is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multi-media and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices; and to remain backward compatible to older software.  Many new symantic features are included.
+**HTML5** is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multi-media and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices; and to remain backward compatible to older software.  Many new symantec features are included.
 
 *HTML5* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/HTML5).</a>
 
@@ -32,7 +32,7 @@ Please enjoy the [Lyric Search](https://etorres-revature.github.io/Lyric_Search/
 
 **Cascading Style Sheets (CSS)** is a stylesheet language used for describing the presentation of a document written in a markup language (such as HTML5).  CSS is designed to enable the separation of presentation and content; including layout, colors, and fonts.  This separation improves content accessibility to provide more flexibility and control in the specification of presentation characteristics, enabling multiple web pages to share formatting by specifying relevant CSS in a separate file, which reduces complexity and repetition in the structural content (HTML), as well as enabling the file to be cached to improve the page load speed between the pages that share the file and its formatting.
 
-Separation of formating and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice, and on Braille-based tactile devices. 
+Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice, and on Braille-based tactile devices. 
 
 *CSS* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).</a>
 
